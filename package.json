@@ -4,8 +4,8 @@
   "main": "./lib/index",
   "description": "A Packery component for React.js",
   "dependencies": {
-    "packery": "eiriklv/packery",
-    "imagesloaded": "eiriklv/imagesloaded"
+    "packery": "git+https://github.com/metafizzy/packery.git",
+    "imagesloaded": "git+https://github.com/desandro/imagesloaded.git"
   },
   "devDependencies": {},
   "scripts": {

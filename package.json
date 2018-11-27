@@ -5,7 +5,8 @@
   "description": "A Packery component for React.js",
   "dependencies": {
     "packery": "git+https://github.com/metafizzy/packery.git",
-    "imagesloaded": "git+https://github.com/desandro/imagesloaded.git"
+    "imagesloaded": "git+https://github.com/desandro/imagesloaded.git",
+    "prop-types": "^15.6.2"
   },
   "devDependencies": {},
   "scripts": {

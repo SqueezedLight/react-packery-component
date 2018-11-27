@@ -6,7 +6,8 @@
   "dependencies": {
     "packery": "git+https://github.com/metafizzy/packery.git",
     "imagesloaded": "git+https://github.com/desandro/imagesloaded.git",
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "create-react-class": "^15.6.3"
   },
   "devDependencies": {},
   "scripts": {
